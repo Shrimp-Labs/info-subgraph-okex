@@ -6,11 +6,11 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: Factory
-    network: hsc
+    network: oec
     source:
-      address: '0x6168D508ad65D87f8F5916986B55d134Af7153bb'
+      address: '0x0dDF434108DF168b347428De9C8F595471364A48'
       abi: Factory
-      startBlock: 67156
+      startBlock: 4957032
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.3
