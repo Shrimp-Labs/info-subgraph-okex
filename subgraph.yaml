@@ -34,7 +34,7 @@ dataSources:
 templates:
   - kind: ethereum/contract
     name: Pair
-    network: hsc
+    network: oec
     source:
       abi: Pair
     mapping:
